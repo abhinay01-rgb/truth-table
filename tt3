@@ -1,0 +1,39 @@
+<html>
+<head>
+<style>
+#box{ height:50px;width:215px;background:#99FF00;
+font-size:20px;text-shadow:1px 1px 20px green;
+border:2px solid black;border-radius:5px 5px 5px 5px; 
+box-shadow:5px 5px 15px 2px black;
+transition-property:height;
+transition-duration:1s;}
+.pp{{border:3px solid black;
+width:800px;height:400px;
+margin:0px 0px 0px 300px;}}
+
+
+
+
+#box:hover{
+height:80px;
+}
+</style>
+</head>
+<body>
+procedure:
+<br><br><br><button id="box">Theory<button>
+  <button id="box"> Procedure</button>
+   <button id="box">Simulator</button>
+    <button id="box">Viva question</button>
+	 <button id="box">team members</button>
+	  <a href="tt2.html"><button id="box">feedback</button></a>
+<div class="pp">use these symbol in expression.<br>
+a)& and<br>
+b)| or<br>
+c)^ xor<br>
+d)~ not<br>
+e)! not<br><br>
+
+click on submit.</div>
+</body>
+</html>
