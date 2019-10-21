@@ -8,7 +8,7 @@ It is an electronic circuit having one or more than one input and only one outpu
 The relationship between the input and the output is based on a certain logic.
 Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</p>
 <p><strong>1.3 Learning Objectives:</strong></p>
-<p>&nbsp;</p>
+<p>To display the truth table of the given logical expression.</p>
 <table width="612">
 <body>
 <li><strong> Instructional Strategy </strong></li>
