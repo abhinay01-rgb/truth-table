@@ -2,27 +2,12 @@
 <p>To find the value of truth table of the given expression.</p>
 <p><strong>1.2 About the Experiment: </strong></p>
 <p><strong>Truth Table:</strong></p>
-<p>.</p>
 <p>Logic gates are the basic building blocks of any digital system.
 It is an electronic circuit having one or more than one input and only one output. 
 The relationship between the input and the output is based on a certain logic.
 Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</p>
-<p><strong>1.3 Learning Objectives:</strong></p>
+<p><strong>Learning Objectives:</strong></p>
 <p>To display the truth table of the given logical expression.</p>
-<table width="612">
-<body>
-<li><strong> Instructional Strategy </strong></li>
-</ol>
-<p><strong>2.1 Instructional Strategy: Expository</strong></p>
-<p><strong>2.2 Assessment Method: Formative Assessment</strong></p>
-<p><strong>2.3 </strong>Description of sections:</p>
-<p>Students will identify various components as per the arrangement to design the set up. With this, they will get concept and purpose of each component. They will connect the circuit elements properly. Battery will be connected with appropriate polarity. Based on the direction of diode and battery, the input signal is clipped off or shifted at particular value of the waveform for clipper and clamper circuit respectively. &nbsp;Clipper circuit in which the diode is connected in shunt to the input signal and biased with positive reference voltage and that attenuates the positive portions of the waveform, is termed as&nbsp;Positive Shunt Clipper. During the positive cycle of the input the diode gets forward biased and nothing but the reference voltage appears at the output. During its negative cycle, the diode gets reverse biased and behaves as an open switch.&nbsp;</p>
-<p>A Negative Clamper circuit is one that consists of a diode, a resistor and a capacitor and that shifts the output signal to the negative portion of the input signal. During the positive half cycle, the capacitor gets charged to its peak value. The diode is forward biased and conducts. During the negative half cycle, the diode gets reverse biased and gets open circuited. The output signal changes according to the changes in the input, but shifts the level according to the charge on the capacitor, as it adds the input voltage.</p>
-<p>&nbsp;</p>
-<ol start="3">
-<li><strong> Task &amp; Assessment Questions</strong></li>
-</ol>
-<p>Complete the following table with details of the various tasks and assessment questions you will give to the students.</p>
 <table width="708">
 <tbody>
 <tr>
