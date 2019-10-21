@@ -3,81 +3,14 @@
 <p><strong>1.2 About the Experiment: </strong></p>
 <p><strong>Truth Table:</strong></p>
 <p>.</p>
-<p>Clamping circuit preserves shape of the waveform while clipping circuit does not preserve the shape of the waveform. Clipping circuit uses some reference level. Waveform above or below this reference level is clipped. Clipping circuits are also known as the voltage limiter or an amplitude limiter or slicers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Clipper</strong></p>
-<p>In a positive clipper, the positive half cycles of the input voltage will be clipped out. A biased clipper comes in handy when a small portion of positive or negative half cycles of the signal voltage is to be removed. When a small portion of the positive half cycle is to be removed, it is called a biased positive clipper.</p>
-<p>In a biased clipper, when the input signal voltage is positive, but does not exceed battery the voltage &lsquo;V&rsquo;, the diode &lsquo;D&rsquo; remains reverse-biased and the input signal appears across the output. When during the positive half cycle of input signal, the signal voltage becomes more than the battery voltage V, the diode D is forward biased and so diode conducts. The output voltage is equal to &lsquo;V+0.7V&rsquo; and stays at &lsquo;V+0.7V&rsquo; as long as the magnitude of the input signal voltage is greater than the magnitude of the battery voltage, &lsquo;V&rsquo;. When during the negative half cycle of input signal, the signal voltage becomes more than the battery voltage V, the diode D is reverse biased and so the diode is behaves as an open switch. Thus the entire negative half cycle appears across the load, as illustrated by output waveform .Thus a biased positive clipper removes input voltage when the input signal voltage becomes greater than the battery voltage</p>
-<p>&nbsp;</p>
-<p><strong>Clamper</strong></p>
-<p>Clamping circuits are used to change DC level (average level) of the signal which adds or subtracts DC value to the signal. In clamping, the shape of waveform remains same only offset value (DC level) will change. Positive clamping adds a positive DC level in the signal while negative clamping adds a negative DC level in the signal. The Capacitor is widely used in the clamping circuit. Typical clamping waveforms of the sinusoidal signal are shown below for positive clamping and negative clamping.</p>
-<p>Clamping circuit is used in video amplifier of television receiver to restore DC level of video signal to preserve the overall brightness of the scene. Clamping circuit is also used in offset control of a function generator. Zero offsets means no DC value is added in the AC signal.</p>
-<p>The circuit will be called a positive clamper, when the signal is pushed upward by the circuit. When the signal moves upward, as shown in figure (a), the negative peak of the signal coincides with the zero level. The circuit will be called a negative clamper, when the signal is pushed downward by the circuit. When the signal is pushed on the negative side, as shown in figure (b), the positive peak of the input signal coincides with the zero level.</p>
-<p>&nbsp;</p>
+<p>Logic gates are the basic building blocks of any digital system.
+It is an electronic circuit having one or more than one input and only one output. 
+The relationship between the input and the output is based on a certain logic.
+Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</p>
 <p><strong>1.3 Learning Objectives:</strong></p>
 <p>&nbsp;</p>
 <table width="612">
-<tbody>
-<tr>
-<td width="68">
-<p><strong>S.No.</strong></p>
-</td>
-<td width="334">
-<p><strong>Learning Objective</strong></p>
-</td>
-<td width="115">
-<p><strong>Cognitive Level</strong></p>
-</td>
-<td width="94">
-<p><strong>Action Verb</strong></p>
-</td>
-</tr>
-<tr>
-<td width="68">
-<p>1</p>
-</td>
-<td width="334">
-<p>To test the output waveform of wave shaping circuits.</p>
-</td>
-<td width="115">
-<p>Create</p>
-</td>
-<td width="94">
-<p>Test</p>
-</td>
-</tr>
-<tr>
-<td width="68">
-<p>2</p>
-</td>
-<td width="334">
-<p>To design a clipper for specific peak value of the waveform.</p>
-</td>
-<td width="115">
-<p>Create</p>
-</td>
-<td width="94">
-<p>Design</p>
-</td>
-</tr>
-<tr>
-<td width="68">
-<p>3</p>
-</td>
-<td width="334">
-<p>To illustrate the level shifting through clamping circuit.</p>
-</td>
-<td width="115">
-<p>Understand</p>
-</td>
-<td width="94">
-<p>Illustrate</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong></p>
-<ol start="2">
+<body>
 <li><strong> Instructional Strategy </strong></li>
 </ol>
 <p><strong>2.1 Instructional Strategy: Expository</strong></p>
