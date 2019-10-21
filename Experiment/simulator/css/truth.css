@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana;
+    background:white ;
+    max-width: 60em;
+	border-top:40px solid red;
+		border-bottom:40px solid yellow;
+			
+				padding:60px 80px 100px 120px;
+				border-radius:50px;
+	
+}
+
+#guide {
+    float:right;
+    border: black solid 0.1em;
+    padding: 1em;
+    background:grey;
+	color: white;
+border-radius:40px;
+box-shadow:10px 10px 10px 10px black;
+width:300px;
+height:300px;
+}
+
+#guide h1 {
+    font-size: 1.2em;
+color:dodgerblu
+
+}
+#controls h1{
+	color:mediumseagreen;
+	
+	
+}
