@@ -38,7 +38,8 @@
 <p><strong>NAME OF DEVELOPER</strong></p>
 </td>
 <td width="301">
-<p>ABHINAY YADAV</p>
+<p>ABHINAY YADAV </P>
+  <P>PRANJUL PURWAR</p>
 </td>
 </tr>
 <tr>
@@ -100,13 +101,13 @@
 <p>Prof.Deep Singh Thakur</p>
 </td>
 <td width="87">
-<p>Faculty</p>
+<p>FACULTY</p>
 </td>
 <td width="156">
 <p>Mechanical Engineering</p>
 </td>
 <td width="96">
-<p>Rajkiya Engineering College;G,</p>
+<p>Rajkiya Engineering College</p>
 <p>Banda</p>
 </td>
 <td width="176">
@@ -178,7 +179,7 @@
 </tr>
   <tr>
 <td width="37">
-<p>4</p>
+<p>5</p>
 </td>
 <td width="109">
 <p>Nitish Kumar</p>
