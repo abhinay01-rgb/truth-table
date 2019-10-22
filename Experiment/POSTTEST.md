@@ -1,4 +1,4 @@
-# POSTTEST
+# POST_TEST
 <P>Q4. Digital circuit can be made by the repeated use of</P>
 
 <P>1.OR gates</P>
