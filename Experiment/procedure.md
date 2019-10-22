@@ -6,4 +6,4 @@
 <p>d)~ not</p>
 <p>e)! not</p>
 
-p/>Now you will get the solved expression in truth table.<p>
+<p>Now you will get the solved expression in truth table.</p>
