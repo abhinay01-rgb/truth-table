@@ -1,4 +1,4 @@
-# PRETEST
+# PRET_TEST
 <P>
 Q1. The universal gate is</P>
 
