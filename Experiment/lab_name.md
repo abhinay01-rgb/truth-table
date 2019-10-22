@@ -1,2 +1,2 @@
-#Basic of computer science
+# Basic of computer science
 Truth table
