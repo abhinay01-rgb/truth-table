@@ -1,7 +1,7 @@
 ## THEORY
 <P>Logic gates are the basic building blocks of any digital system. It is an electronic circuit having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic.</P><P> Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</P>
 <P>
-# AND Gate</P>
+  <b>1.AND Gate</b></P>
 <P>A circuit which performs an AND operation.</P>
 <P>Y=A.B</P>
 <P>OR Gate</P>
