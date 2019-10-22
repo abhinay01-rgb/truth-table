@@ -24,7 +24,7 @@ Y=A+B</P><b><P>NOT Gate</P></b>
 The exclusive-OR gate is abbreviated as EX-OR gate or sometime as X-OR gate.</P>
 <P>Y=A(~B)+B(~A)</P>
 <P>
-<b>XNOR Gate</P><b>
+<b>XNOR Gate</P></b>
 <P>XNOR gate is a special type of gate. It can be used in the half adder, full adder and subtractor.</P>
 <P>The exclusive-NOR gate is abbreviated as EX-NOR gate or sometime as X-NOR gate.</P>
 <P>Y=A.B+(~A)(~B)</P>
