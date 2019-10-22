@@ -1,9 +1,9 @@
 # PROCEDURE
-1.use these symbol in expression.
-a)& and
-b)| or
-c)^ xor
-d)~ not
-e)! not
+<p>1.use these symbol in expression.</p>
+<p>a)& and</p>
+<p>b)| or</p>
+<p>c)^ xor</p>
+<p>d)~ not</p>
+<p>e)! not</p>
 
-Now you will get the solved expression in truth table.
+p/>Now you will get the solved expression in truth table.<p>
