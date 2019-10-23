@@ -118,7 +118,7 @@ Q1. The universal gate is</P>
 <p>Student has to verify if he is getting the output in desired expression.</p>
 </td>
 <td width="211">
-<p>&nbsp;To understand the meaning of various operators. </p>
+<p>&nbsp;Student has to write logical expressions and find its value </p>
 </td>
 </tr>
 <tr>
@@ -126,29 +126,16 @@ Q1. The universal gate is</P>
 <p><strong>2</strong></p>
 </td>
 <td width="220">
-<p>To design a clipper for specific peak value of the waveform.</p>
+<p>To understand the meaning of various operators.</p>
 </td>
 <td width="245">
-<p>Student will set the value of input signal upto a level so as to forward bias the connected diode after a particular value.</p>
+<p>Student will write logical expressions using each and every logical operators.</p>
 </td>
 <td width="211">
-<p>How battery is to be &nbsp;connected with respect to diode to achieve given peak value?</p>
+<p>How to solve complex&nbsp;boolean expressions.</p>
 </td>
 </tr>
-<tr>
-<td width="32">
-<p><strong>3</strong></p>
-</td>
-<td width="220">
-<p>To illustrate the level shifting through clamping circuit.</p>
-</td>
-<td width="245">
-<p>Student will observe the shifting of signal in the output by selecting proper values of resistor and capacitor.</p>
-</td>
-<td width="211">
-<p>To keep a constant voltage of capacitor over time period of input wave, what value of time constant is to be selected?</p>
-</td>
-</tr>
+
 </tbody>
 </table>
 <p>&nbsp;</p>
