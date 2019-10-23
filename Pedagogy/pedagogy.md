@@ -174,6 +174,17 @@ Q1. The universal gate is</P>
 <p>Simulator will set the logical expression given by user at the back end through JavaScript.</p>
 </td>
 <td width="245">
+<p>Student will know wheather the truth table is valid or not.</p>
+</td>
+</tr>
+<tr>
+<td width="254">
+<p>Students will click on submit.</p>
+</td>
+<td width="204">
+<p>Simulator will process the logical expression.</p>
+</td>
+<td width="245">
 <p>Student will know the truth table of the given logical expression.</p>
 </td>
 </tr>
