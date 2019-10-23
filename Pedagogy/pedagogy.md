@@ -51,7 +51,7 @@ Q1. The universal gate is</P>
 <p>1</p>
 </td>
 <td width="334">
-<p>To test the output waveform of wave shaping circuits.</p>
+<p>To test the output of given expression.</p>
 </td>
 <td width="115">
 <p>Create</p>
@@ -65,7 +65,7 @@ Q1. The universal gate is</P>
 <p>2</p>
 </td>
 <td width="334">
-<p>To design a clipper for specific peak value of the waveform.</p>
+<p>To understand the meaning of various operators.</p>
 </td>
 <td width="115">
 <p>Create</p>
@@ -74,20 +74,7 @@ Q1. The universal gate is</P>
 <p>Design</p>
 </td>
 </tr>
-<tr>
-<td width="68">
-<p>3</p>
-</td>
-<td width="334">
-<p>To illustrate the level shifting through clamping circuit.</p>
-</td>
-<td width="115">
-<p>Understand</p>
-</td>
-<td width="94">
-<p>Illustrate</p>
-</td>
-</tr>
+
 </tbody>
 </table>
 <p><strong>&nbsp;</strong></p>
