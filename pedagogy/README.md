@@ -2,6 +2,7 @@
 <p><strong>1.1</strong><strong> FOCUS AREA: </strong></p>
 <p>To find the value of truth table of the given expression.</p>
 <p><strong>1.2 About the Experiment: </strong></p>
+<p>The simulator will takes the input of logical expression and it will generate the truth table of the given logical expression and the output will be displayed on the screen so that the user will get the desired output.</p>
 <p><strong>Truth Table Generator:</strong></p>
 <p>Logic gates are the basic building blocks of any digital system.
 It is an electronic circuit having one or more than one input and only one output. 
