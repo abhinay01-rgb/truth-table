@@ -7,6 +7,47 @@
 It is an electronic circuit having one or more than one input and only one output. 
 The relationship between the input and the output is based on a certain logic.
 Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</p>
+  <b> PRET_TEST</b>
+<P>
+Q1. The universal gate is</P>
+
+<P>1.NAND gate</P>
+<P>2.OR gate</P>
+<P>3.AND gate</P>
+<P>4.None of the above</P>
+<P>Q2. The NOR gate is OR gate followed by</P>
+
+<P>1.AND gate</P>
+<P>2.NAND gate</P>
+<P>3.NOT gate</P>
+<P>4.None of the above</P>
+<P>Q3. The inverter is</P>
+
+<P>1.NOT gate</P>
+<P>2.OR gate</P>
+<P>3.AND gate</P>
+<P>4.None of the above</P>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p><strong>Learning Objectives:</strong></p>
 <p>To display the truth table of the given logical expression.</p>
 <table width="708">
