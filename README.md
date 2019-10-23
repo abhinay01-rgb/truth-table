@@ -14,7 +14,7 @@
 <td width="200">
 <p><strong>LAB</strong></p>
 </td>
-<td width="200">
+<tdg width="200">
 <p>Electronics Engineering Lab</p>
 </td>
 </tr>
@@ -23,7 +23,7 @@
 <p><strong>EXPERIMENT</strong></p>
 </td>
 <td width="200">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Truth Table</p>
+<p>Truth Table</p>
 </td>
 </tr>
 </tbody>
