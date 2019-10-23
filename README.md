@@ -7,7 +7,7 @@
 <p><strong>DISCIPLINE</strong></p>
 </td>
 <td width="200">
-<p>Mechanical Engineering</p>
+<p>Electronics Engineering</p>
 </td>
 </tr>
 <tr>
@@ -15,7 +15,7 @@
 <p><strong>LAB</strong></p>
 </td>
 <td width="200">
-<p>Computer science and Engineering LAB</p>
+<p>Electronics Engineering Lab</p>
 </td>
 </tr>
 <tr>
