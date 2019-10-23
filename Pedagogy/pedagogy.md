@@ -2,32 +2,12 @@
 <p><strong>1.1</strong><strong> FOCUS AREA: </strong></p>
 <p>To find the value of truth table of the given expression.</p>
 <p><strong>1.2 About the Experiment: </strong></p>
-<p><strong>Truth Table:</strong></p>
+<p><strong>Truth Table Generator:</strong></p>
 <p>Logic gates are the basic building blocks of any digital system.
 It is an electronic circuit having one or more than one input and only one output. 
 The relationship between the input and the output is based on a certain logic.
 Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</p>
-  <b> 1.3 PRET_TEST</b>
-<P>
-  <P>Some of the question  for practice</p>
-Q1. The universal gate is</P>
-
-<P>1.NAND gate</P>
-<P>2.OR gate</P>
-<P>3.AND gate</P>
-<P>4.None of the above</P>
-<P>Q2. The NOR gate is OR gate followed by</P>
-
-<P>1.AND gate</P>
-<P>2.NAND gate</P>
-<P>3.NOT gate</P>
-<P>4.None of the above</P>
-<P>Q3. The inverter is</P>
-
-<P>1.NOT gate</P>
-<P>2.OR gate</P>
-<P>3.AND gate</P>
-<P>4.None of the above</P>
+ 
   <p><strong>1.3 Learning Objectives:</strong></p>
 <p>&nbsp;</p>
 <table width="612">
@@ -139,6 +119,27 @@ Q1. The universal gate is</P>
 </tbody>
 </table>
 <p>&nbsp;</p>
+ <b> 3.1 Pre Test</b>
+<P>
+  <P>Some of the question  for practice</p>
+Q1. The universal gate is</P>
+
+<P>1.NAND gate</P>
+<P>2.OR gate</P>
+<P>3.AND gate</P>
+<P>4.None of the above</P>
+<P>Q2. The NOR gate is OR gate followed by</P>
+
+<P>1.AND gate</P>
+<P>2.NAND gate</P>
+<P>3.NOT gate</P>
+<P>4.None of the above</P>
+<P>Q3. The inverter is</P>
+
+<P>1.NOT gate</P>
+<P>2.OR gate</P>
+<P>3.AND gate</P>
+<P>4.None of the above</P>
 <p>&nbsp;</p>
 <ol start="4">
 <li><strong> Simulator Interactions</strong></li>
