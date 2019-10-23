@@ -49,10 +49,7 @@ Q1. The universal gate is</P>
 
 
 
-<p><strong>1.4 Learning Objectives:</strong></p>
-<p>To display the truth table of the given logical expression.</p>
-<table width="708">
-<tbody>
+
   <p><strong>1.3 Learning Objectives:</strong></p>
 <p>&nbsp;</p>
 <table width="612">
