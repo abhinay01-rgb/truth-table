@@ -1,3 +1,4 @@
+# Pedagogy
 <p><strong>1.1</strong><strong> FOCUS AREA: </strong></p>
 <p>To find the value of truth table of the given expression.</p>
 <p><strong>1.2 About the Experiment: </strong></p>
