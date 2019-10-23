@@ -71,7 +71,7 @@ Q1. The universal gate is</P>
 <p>Create</p>
 </td>
 <td width="94">
-<p>Design</p>
+<p>Solving&nbsp;Ability</p>
 </td>
 </tr>
 
