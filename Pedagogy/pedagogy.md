@@ -7,7 +7,12 @@
 It is an electronic circuit having one or more than one input and only one output. 
 The relationship between the input and the output is based on a certain logic.
 Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</p>
- 
+ <p><b>Logical conjunction (AND)</b></p>
+<p>Logical conjunction is an operation on two logical values, typically the values of two propositions, that produces a value of true if both of its operands are true.</p>
+<p><b>Logical disjunction (OR)</b></p>
+<p>Logical disjunction is an operation on two logical values, typically the values of two propositions, that produces a value of true if at least one of its operands is true.</p>
+<p><b>Logical NOT</b></p>
+<p>Logical negation is an operation on one logical value, typically the value of a proposition, that produces a value of true if its operand is false and a value of false if its operand is true.</p>
   <p><strong>1.3 Learning Objectives:</strong></p>
 <p>&nbsp;</p>
 <table width="612">
