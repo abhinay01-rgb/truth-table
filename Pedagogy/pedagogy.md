@@ -112,13 +112,13 @@ Q1. The universal gate is</P>
 <p><strong>1</strong></p>
 </td>
 <td width="220">
-<p>To test the output waveform of wave shaping circuits.</p>
+<p>To test the output of given expression.</p>
 </td>
 <td width="245">
-<p>Student has to verify if he is getting the output in desired range</p>
+<p>Student has to verify if he is getting the output in desired expression.</p>
 </td>
 <td width="211">
-<p>&nbsp; Check whether a particular circuit is clipper or clamper.</p>
+<p>&nbsp;To understand the meaning of various operators. </p>
 </td>
 </tr>
 <tr>
