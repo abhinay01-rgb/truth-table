@@ -1,4 +1,4 @@
-# Pedagogy
+## Pedagogy
 <p><strong>1.1</strong><strong> FOCUS AREA: </strong></p>
 <p>To find the value of truth table of the given expression.</p>
 <p><strong>1.2 About the Experiment: </strong></p>
@@ -7,8 +7,9 @@
 It is an electronic circuit having one or more than one input and only one output. 
 The relationship between the input and the output is based on a certain logic.
 Based on this, logic gates are named as AND gate, OR gate, NOT gate etc.</p>
-  <b> PRET_TEST</b>
+  <b> 1.3 PRET_TEST</b>
 <P>
+  <P>Some of the question  for practice</p>
 Q1. The universal gate is</P>
 
 <P>1.NAND gate</P>
