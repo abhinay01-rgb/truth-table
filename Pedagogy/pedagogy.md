@@ -28,28 +28,6 @@ Q1. The universal gate is</P>
 <P>2.OR gate</P>
 <P>3.AND gate</P>
 <P>4.None of the above</P>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   <p><strong>1.3 Learning Objectives:</strong></p>
 <p>&nbsp;</p>
 <table width="612">
