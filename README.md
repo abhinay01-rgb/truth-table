@@ -14,7 +14,7 @@
 <td width="200">
 <p><strong>LAB</strong></p>
 </td>
-<tdg width="200">
+<td width="200">
 <p>Electronics Engineering Lab</p>
 </td>
 </tr>
